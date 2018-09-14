@@ -1,0 +1,107 @@
+.hey {
+  background: url(./images/pexels-photo.jpeg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+@font-face {
+  font-family: aclo;
+  src: url(Aclonica.ttf);
+}
+
+.leftbar {
+   width: 17.49%;
+   height: 100%;
+	margin: 0;
+    padding: 0;
+    font-size: 3vw;
+	float: left;
+	text-decoration: none;
+	font-family: aclo;
+line-height: 250%;
+
+
+}
+.rightbar {
+   width: 17.49%;
+   height: 100%;
+   margin: 0;
+    padding: 0;
+    font-size: 3vw;
+	float: left;
+	text-align: right;
+	text-decoration: none;
+	font-family: aclo;
+line-height: 250%;
+}
+#barik {
+height: 5vw;
+}
+.navt {
+	text-decoration: none;
+color: aqua;
+}
+.aa {
+  color: white;
+  font-size: 4vw;
+  font-family: 'Tangerine', cursive;
+  text-align: center;
+margin: 0;
+  }
+
+h1 {
+   color: white;
+   font-size: 4vw;
+   font-family: 'Spectral SC', serif;
+   text-align: center;
+margin: 0;
+   }
+
+.ab {
+ text-align: center;
+   width: 63vw;
+  height: 100%;
+  float: left;
+    }
+.circular--image {
+  border-radius: 50%;
+  width: 30%;
+}
+.total {
+ height: 30vw	;
+margin: 0.5%;
+}
+.fa {
+    width: 5vw;
+    text-align: center;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+#f1 {
+    position: absolute;
+    visibility: visible;
+    left: 33vw;
+}
+#f2 {
+    position: absolute;
+    visibility: visible;
+    left: 41vw;
+}
+#f3 {
+    position: absolute;
+    visibility: visible;
+    left: 49vw;
+}
+#f4 {
+    position: absolute;
+    visibility: visible;
+    left: 57vw;
+}
+#f5 {
+    position: absolute;
+    visibility: visible;
+    left: 65vw;
+}
+
